@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Moataz</h1>
+<h1 align="center">Hi, I'm Moataz</h1>
 <p align="center">A motivated software development enthusiast, seeking opportunities to contribute to innovative projects, collaborate within dynamic teams, and advance skills in programming and technology. Dedicated to achieving company goals through professionalism, creativity, and a strong commitment to excellence.</p>
 
 <h2 align="center">🌐 Connect with me:</h2>
